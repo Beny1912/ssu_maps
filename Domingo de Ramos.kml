@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Domingo de Ramos</name>
+    <description/>
+    <NetworkLink>
+      <name>Domingo de Ramos</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1orX6MgnnvWy-ooJkXKEHRc2kImM]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
